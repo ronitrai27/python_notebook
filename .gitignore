@@ -4,6 +4,7 @@ __pycache__/
 
 # Virtual environment
 venv/
+btech/
 
 # Jupyter
 # .ipynb_checkpoints/
